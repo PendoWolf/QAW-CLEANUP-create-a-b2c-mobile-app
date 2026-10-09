@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Clearlist",
+    "slug": "clearlist-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.clearlist.mobile",
+      "softwareKeyboardLayoutMode": "resize"
+    }
+  }
+}
